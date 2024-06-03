@@ -1,0 +1,13 @@
+#+title: ArduEmu
+
+Simulate Arduino Hardware
+
+* Modules
+Create Modules which can be
+- connected to IO Pins
+- Updated each frame
+- Mount displays for Visualisation
+
+* Software
+Write Code in an Arduino compatible way.
+Arduino should be a drop-in replacement for Testing without Hardware
